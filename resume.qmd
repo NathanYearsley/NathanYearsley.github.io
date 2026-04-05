@@ -1,91 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nathan Yearsley's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Nathan Yearsley
+Business Management Student • General Manager • Team Leader
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:Nathanyearsley23@gmail.com">Nathanyearsley23@gmail.com</a>
+| Idaho Falls, Idaho
+| 208-521-0750
 </div>
 
+## Profile
 
-## Currently
+Passionate leader with 4 years of team-building and management experience. Skilled in training both managers and crew, organizing operations, and enhancing customer experience. Strong communicator with proficiency in Excel, Word, and other digital tools. Dedicated to developing people, improving processes, and creating a hospitality‑focused environment.
 
-Standing on the shoulders of giants
+---
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Leadership & Team Development** – Coaching employees, training managers, building high‑performance teams  
+- **Customer Service Excellence** – Hospitality focus, customer engagement, experience improvement  
+- **Operations Management** – Scheduling, workflow optimization, multi‑tasking under pressure  
+- **Training & Onboarding** – Creating training procedures, monitoring compliance, rapid learning  
+- **Communication** – Clear communicator with staff, management, and customers  
+- **Organization & Documentation** – File management, tracking expenses, maintaining training records  
+- **Technical Skills** – Proficient in Excel, Word, and online business tools  
+- **Problem‑Solving** – Adapting quickly, handling high‑stress situations, resolving operational issues  
 
+---
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### General Manager  
+**Classic Foods Inc. – Wendy’s, Idaho Falls**  
+**April 2021 – Present**
 
+- Lead a diverse team to deliver fast, high‑quality customer service while developing employees of all ages.  
+- Coordinate scheduling through effective negotiation and planning to maintain full store coverage.  
+- Manage multiple projects and deadlines with flexibility and efficiency.  
+- Oversee training across the store to ensure proper procedures and standards are consistently met.  
+- Adapt quickly to operational changes and unexpected challenges.  
+- Thrive in high‑stress environments while maintaining professionalism and focus.  
+- Use Excel to track business performance and profitability.  
+- Learn and train new products, systems, and procedures rapidly.  
+- Conduct weekly Food Safety Assessments to monitor store progress.  
+- Design and implement strategic training procedures for effective onboarding and development.  
+- Communicate regularly with upper management regarding goals, progress, and operational updates.  
+- Maintain organized employee, training, and expense files for the entire restaurant.  
+- Engage with customers to gather feedback and improve overall experience.  
+- Build a team culture centered on hospitality and customer satisfaction.
+
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### High School Diploma  
+**Idaho Falls High School**  
+Class of 2019
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Bachelor of Business Management (Minor in Nutrition)  
+**Brigham Young University – Idaho**  
+September 2021 – Present  
+Anticipated Graduation: Spring 2027
 
-- Sizar
+---
 
-`1667 - death`
-__Trinity College, Cambridge__
+## References
 
-- Fellow
+**Zachary Peless**  
+Phone: 208‑716‑8167  
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Kegan Genther**  
+Phone: 208‑821‑4639
